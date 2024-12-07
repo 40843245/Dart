@@ -45,7 +45,7 @@ To install the Dart SDK in Windows 11, follow these steps.
 choco install dart-sdk
 ```
 
-#### set the system environment `PATH`
+#### set the system environment `PATH` (maybe optional)
 1. find the location of Dart SDK (by default, it is located in `C:\tools\dart-sdk`
 2. open system environment variable in Settings.
 3. add that location to system environment `PATH`.

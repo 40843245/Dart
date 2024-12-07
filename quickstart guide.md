@@ -36,7 +36,7 @@ To install and update the Dart SDK from the stable channel, choose one of the fo
 
 To install the Dart SDK in Windows 11, follow these steps.
 
-1. [Install Chocolatey](https://chocolatey.org/).
+1. [Install Chocolatey](https://semicolon.dev/windows/how-to-install-chocolatey-powershell).
 2. Launch PowerShell with elevated permissions.
 3. Change the current directory to `C:\`.
 4. Type the following command in PowerShell.
